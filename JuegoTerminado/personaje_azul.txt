@@ -1,0 +1,59 @@
+0
+{
+  EnemigoAzul/standing/1.png
+  EnemigoAzul/standing/2.png
+  EnemigoAzul/standing/3.png
+  EnemigoAzul/standing/4.png
+}
+
+1
+{
+  EnemigoAzul/standing_left/1.png
+  EnemigoAzul/standing_left/2.png
+  EnemigoAzul/standing_left/3.png
+  EnemigoAzul/standing_left/4.png
+}
+
+2
+{
+  EnemigoAzul/walk/1.png
+}
+
+3
+{
+  EnemigoAzul/walk_left/1.png
+  EnemigoAzul/walk_left/2.png
+  EnemigoAzul/walk_left/3.png
+  EnemigoAzul/walk_left/4.png
+  EnemigoAzul/walk_left/5.png
+}
+
+4
+{
+  EnemigoAzul/punch/1.png
+}
+
+5
+{
+  EnemigoAzul/punch/2.png
+}
+
+6
+{
+  EnemigoAzul/punch/3.png
+}
+
+7
+{
+  EnemigoAzul/punch_left/1.png
+}
+
+8
+{
+  EnemigoAzul/punch_left/2.png
+}
+
+9
+{
+  EnemigoAzul/punch_left/3.png
+}

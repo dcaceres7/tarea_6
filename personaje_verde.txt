@@ -1,0 +1,59 @@
+ANIMACION_IDLE_RIGHT
+{
+  EnemigoVerde/standing/1.png
+  EnemigoVerde/standing/2.png
+  EnemigoVerde/standing/3.png
+  EnemigoVerde/standing/4.png
+}
+
+ANIMACION_IDLE_LEFT
+{
+  EnemigoVerde/standing_left/1.png
+  EnemigoVerde/standing_left/2.png
+  EnemigoVerde/standing_left/3.png
+  EnemigoVerde/standing_left/4.png
+}
+
+ANIMACION_WALKING_RIGHT
+{
+  EnemigoVerde/walk/1.png
+}
+
+ANIMACION_WALKING_LEFT
+{
+  EnemigoVerde/walk_left/1.png
+  EnemigoVerde/walk_left/2.png
+  EnemigoVerde/walk_left/3.png
+  EnemigoVerde/walk_left/4.png
+  EnemigoVerde/walk_left/5.png
+}
+
+ANIMACION_ATACANDO_STARTUP_RIGHT
+{
+  EnemigoVerde/punch/1.png
+}
+
+ANIMACION_ATACANDO_ACTIVE_RIGHT
+{
+  EnemigoVerde/punch/2.png
+}
+
+ANIMACION_ATACANDO_RECOVERY_RIGHT
+{
+  EnemigoVerde/punch/3.png
+}
+
+ANIMACION_ATACANDO_STARTUP_LEFT
+{
+  EnemigoVerde/punch_left/1.png
+}
+
+ANIMACION_ATACANDO_ACTIVE_LEFT
+{
+  EnemigoVerde/punch_left/2.png
+}
+
+ANIMACION_ATACANDO_RECOVERY_LEFT
+{
+  EnemigoVerde/punch_left/3.png
+}
